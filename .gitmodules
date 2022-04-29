@@ -1,0 +1,3 @@
+[submodule "pytorch_sqrtm"]
+	path = pytorch_sqrtm
+	url = https://github.com/IntelligentControlSystems/pytorch_sqrtm
