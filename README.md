@@ -31,4 +31,4 @@ To control a dynamical system it is essential to obtain an accurate estimate of 
 
 ## Reference
 
-Simon Muntwiler, Kim P. Wabersich, and Melanie N. Zeilinger. Learning-based Moving Horizon Estimation through Differentiable Convex Optimization Layers. In *Proceedings of the 4th Conference on Learning for Dynamics and Control*, vol 168. Proceedings of Machine Learning Research, 2020.
+Simon Muntwiler, Kim P. Wabersich, and Melanie N. Zeilinger. Learning-based Moving Horizon Estimation through Differentiable Convex Optimization Layers. In *Proceedings of the 4th Conference on Learning for Dynamics and Control*, vol 168. Proceedings of Machine Learning Research, 2022.
