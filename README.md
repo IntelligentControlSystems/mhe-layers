@@ -1,8 +1,8 @@
 # MHE Layers
 
-This repository contains the code for the numerical example in the paper ![Learning-based Moving Horizon Estimation through Differentiable Convex Optimization Layers](https://arxiv.org/abs/2109.03962) presented at the ![4th Learning for Dynamics & Control](https://l4dc.stanford.edu/) conference.
+This repository contains the code for the numerical example in the paper [Learning-based Moving Horizon Estimation through Differentiable Convex Optimization Layers](https://proceedings.mlr.press/v168/muntwiler22a.html) presented at the [4th Learning for Dynamics & Control](https://l4dc.stanford.edu/) conference.
 The paper presents an formulation of an MHE as a differentiable optimization layer, allowing for combined state estimation and online estimator tuning. 
-The implementation is based on ![Pytorch](https://pytorch.org/), the ![CvxpyLayers](https://github.com/cvxgrp/cvxpylayers) package, and uses ![pytorch-sqrtm](https://github.com/steveli/pytorch-sqrtm) to enable differentation through matrix square-roots. The implementation was tested using Python3.8 with packages as included in the requirements.txt file.
+The implementation is based on [Pytorch](https://pytorch.org/), the [CvxpyLayers](https://github.com/cvxgrp/cvxpylayers) package, and uses [pytorch-sqrtm](https://github.com/steveli/pytorch-sqrtm) to enable differentation through matrix square-roots. The implementation was tested using Python3.8 with packages as included in the requirements.txt file.
 
 ## Setup Instructions
 * Clone the repository with submodule:
